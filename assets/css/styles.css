@@ -1,0 +1,27 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  font-family: "Press Start 2P", cursive;
+}
+
+body * {
+  box-sizing: border-box;
+}
+
+canvas {
+  overflow: hidden;
+  border: 1px dotted;
+  display: flex;
+  margin: auto;
+}
+
+.score-section {
+  background-color: transparent;
+  display: flex;
+  justify-content: center;
+  margin: 10px 0;
+  padding: 15px 0;
+}

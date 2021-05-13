@@ -1,0 +1,3 @@
+class DeadPacman extends Pacman {
+  
+}
